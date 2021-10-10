@@ -1,0 +1,39 @@
+﻿Python:
+
+Nguyên tắc số 1:
+- Từ khoá do python
+- Từ do mình ghi ra không đụng chạm từ khoá của python và những từ không được phép
+
+Nguyên tắc số 2 (Indentation):
+- Ngang hàng (đọc thẳng xuống)
+- Thục vô (con của hàng ở phía trên)
+
+Nguyên tắc số 3:
+- Hiểu được cơ bản
+
+=> khai báo biến: <tên biến> = <kiểu dữ liệu> or <tên biến khác>
+	- tên biến: 
+		- không có khoảng trống, không giống keyword, không đặt từ cấm kỵ
+		- Từ cho phép: alphabet, number
+			- Ex: So12 = 12 => chạy, 12So = 12 => ko chạy
+		- Phân biệt chữ hoa chữ thường:
+			- Huy = 1
+			=> if huy => ko tìm thấy
+			=> if Huy => tìm thấy
+		- Phong cách khai báo biến
+			- khongmuaduocca = True
+			=> 3 phong cách khai báo: 
+				- Pascal: KhongMuaDuocCa = True
+				- camelCase: khongMuaDuocCa = True
+				- snake: khong_mua_duoc_ca = True
+				
+=> kiểu dữ liệu: "123" (string), 123 (integer), 123.999 (float), True/False (boolean)
+
+=> Toán tử: 
+	- True/False: so sánh: >, <, ==, <=, >=, !=, (), and, or
+	- Kết quả: +, -, *, /, **, %, ()
+
+=> if, else, elif, switch, [for, while, do while] => https://www.w3schools.com/python/python_ref_keywords.asp
+
+=> function
+
